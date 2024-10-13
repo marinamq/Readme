@@ -1,18 +1,11 @@
-# Readme
+# 🔗Readme
 
-## Versão em português
+## Sobre mim | About me
 
-- 👋 Olá, Eu sou a Marina Queiroz - @marinamq
-- 👀 Estou interessada em aprender como funciona o mundo do desenvolvimento de software e me tornar uma desenvolvedora.
-- 🌱 No momento estou cursando o curso de Análise e Desenvolvimento de sistemas na Uninter.
-- 📫 Como entrar em contato: marinamq@outlook.com
-
-## English version
-
-- 👋 Hi, I’m Marina Queiroz - @marinamq
-- 👀 I’m interested in learning about how this world of software development works and become a dev too. 
-- 🌱 I’m currently studying a software development course on Uninter.
-- 📫 How to reach me: marinamq@outlook.com
+- 👋 Olá, Eu sou a Marina Queiroz - @marinamq | Hi, I’m Marina Queiroz - @marinamq
+- 👀 Estou interessada em aprender como funciona o mundo do desenvolvimento de software e me tornar uma desenvolvedora. | I’m interested in learning about how this world of software development works and becoming a dev too. 
+- 🌱 No momento estou cursando o curso de Análise e Desenvolvimento de sistemas na Uninter. | I’m currently studying a software development course on Uninter.
+- 📫 Como entrar em contato: marinamq@outlook.com | How to reach me: marinamq@outlook.com
 
 ## Conhecimento técnico | Technical Knowledge
 
@@ -34,7 +27,7 @@
 ## Minhas redes! | Social Midea!
  
 <div> 
-  <a href="https://instagram.com/marinamq" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href = "mailto:marinamq@outlook.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/marinamqueiroz" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="https://instagram.com/marinamq" target="_blank"><img align="center" alt="Js" height="30" width="95" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:marinamq@outlook.com"><img align="center" alt="Js" height="30" width="95" src="https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/marinamqueiroz" target="_blank"><img align="center" alt="Js" height="30" width="95" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
